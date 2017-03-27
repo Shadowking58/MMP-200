@@ -25,15 +25,27 @@ padding:0
 }	
 
 #lineup{
-    text-align:left;
+    text-align:center;
+    float:left;
     background-color:#ffffff;
-    width:22%
+    width:22%;
+    margin-right:15%;   
 }
 
 #twitter{
     background-color:white;
-    background-position:center; 
-    text-align:center
+    text-align:center;
+    width:22%;
+    float:left;
+    margin-right:15%;
+}
+
+#directions{
+    text-align:right;
+}
+
+#sidebar{
+    text-align:right;
 }
 
 h1{
@@ -45,7 +57,7 @@ h1{
 }
 
 h3{
-    text-align:left
+    text-align:center
 }
 
 ul {
@@ -89,7 +101,7 @@ h2{
 	width:100%
 }
 
-#lineup, #news{
+#news{
 	margin:1em 0;
 }
 
