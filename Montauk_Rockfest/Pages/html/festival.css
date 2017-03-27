@@ -42,10 +42,12 @@ padding:0
 
 #directions{
     text-align:right;
+    float:left;
 }
 
 #sidebar{
     text-align:right;
+    float:left;
 }
 
 h1{
