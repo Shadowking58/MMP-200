@@ -68,6 +68,18 @@ ul {
     padding: 0;
 }
 
+#directions{
+    text-align:right;
+    background-color:white;
+}
+
+#footer{
+    background-color:white;
+    width:22%;
+    text-align:right;
+    float:left;
+}
+
 .topnav {
     background-color: white;
     overflow: hidden;
